@@ -1,0 +1,3 @@
+/Users/holly/Desktop/csse2310/ass3/game1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/holly/Desktop/csse2310/ass3/game1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/holly/Desktop/csse2310/ass3/game1/cmake-build-debug/CMakeFiles/game1.dir

@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/game1.dir/austerity.c.o CMakeFiles/game1.dir/player.c.o CMakeFiles/game1.dir/deck.c.o CMakeFiles/game1.dir/game.c.o CMakeFiles/game1.dir/banzai.c.o CMakeFiles/game1.dir/ed.c.o  -o game1 

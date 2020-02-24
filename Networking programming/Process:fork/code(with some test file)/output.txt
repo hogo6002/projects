@@ -1,0 +1,43 @@
+New Card = Bounus P, worth 3, costs 3,22,8,40
+New Card = Bounus Y, worth 1, costs 16,12,3,2
+New Card = Bounus R, worth 4, costs 7,0,1,9
+New Card = Bounus Y, worth 1, costs 7,8,12,10
+New Card = Bounus B, worth 5, costs 11,3,4,6
+New Card = Bounus R, worth 9, costs 12,5,13,4
+New Card = Bounus B, worth 2, costs 7,6,10,11
+New Card = Bounus B, worth 6, costs 13,1,4,4
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A purchased 2 using 5,0,1,0,1
+New Card = Bounus Y, worth 5, costs 8,0,7,0
+Winner(s) A

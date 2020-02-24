@@ -1,0 +1,119 @@
+<resources>
+    <string name="Logo" translatable="false">Virtual Browser</string>
+    <string name="search_for_stores">Search for Stores</string>
+    <string name="version_code" translatable="false">VB v1.1.1</string>
+    <string name="terms_conditions"><![CDATA[Terms & conditions]]></string>
+    <string name="right" translatable="false"><![CDATA[>]]></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="Store_name">Garden City</string>
+    <string name="Opening_hours">Open today from 9:00 to 18:00</string>
+    <string name="stores">Stores</string>
+    <string name="centre_nav">Navigation</string>
+    <string name="centre_info">Centre info</string>
+    <string name="promotion">Promotion</string>
+    <string name="profile">Profile</string>
+    <string name="feedback">Feedback</string>
+    <string name="login">Login</string>
+    <string name="open_now">Open now</string>
+    <string name="OpeningHours">Mon-Friday: 10:00am - 5:00pm</string>
+    <string name="WeekendOpeningHours">Sat-Sunday: 9:00am - 9:00pm</string>
+    <string name="storePhone" translatable="false">(07) 3088 3350</string>
+    <string name="StoreLocation" translatable="false">91 Queen St, Brisbane City QLD 4000</string>
+    <string name="storeParkingInfo">Free parking for 4 hours on L2</string>
+    <string name="left" translatable="false"><![CDATA[<]]></string>
+    <string name="shopping_centres">Shopping Centres</string>
+    <string name="Myer_Brisbane"><u>Myer, Brisbane City</u></string>
+    <string name="shopping_experience">Shopping Experience</string>
+    <string name="app_experience">App experience</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="input_feedback_here">Input Feedback Here</string>
+    <string name="submit">Submit</string>
+    <string name="david_jones_brisbane_city"><u>David Jones, Brisbane City</u></string>
+    <string name="toowong_village_toowong"><u>Toowong Village, Toowong</u></string>
+    <string name="westfield_garden_city"><u>Westfield, Garden City</u></string>
+    <string name="indooroopilly_shooping_centre_indooropilly"><u>Indooroopilly shooping centre, \nIndooropilly</u></string>
+
+    <string name="app_name">Virtual Browser</string>
+
+    <string name="welcome_page_title_virtual" translatable="false">VIRTUAL</string>
+    <string name="welcome_page_title_browser" translatable="false">BROWSER</string>
+    <string name="welcome_search_bar_hint">Search stores and more</string>
+    <string name="welcome_page_select_customer">Customer</string>
+    <string name="welcome_page_select_storeOwner">Store Owner</string>
+    <string name="welcome_page_select_guest">Guest</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_title" translatable="false">Virtual Browser</string>
+    <string name="login_to_register">Register</string>
+    <string name="register_label">Registration</string>
+    <string name="no_account"><u>Or set up an account</u></string>
+    <string name="register_email_hint">Email</string>
+    <string name="register_conform_password">Confirm password</string>
+    <string name="register_address_one">Address Line 1</string>
+    <string name="register_address_two">Address Line 2</string>
+    <string name="register_bottom">Terms &amp; conditions ></string>
+    <string name="register_bottom_two">Privacy Policy</string>
+    <string name="version_number" translatable="false">VB v1.1.1</string>
+    <string name="Profile_name" translatable="false">PETT</string>
+    <string name="Profile_email" translatable="false">Pett.pegment123@gmail.com</string>
+    <string name="Profile_address" translatable="false">87 Roma Street\n\nBrisbane City \n\nQLD 4000</string>
+    <string name="edit">Edit</string>
+    <string name="log_out">Log out</string>
+    <string name="Promotion_store" translatable="false">Event Cinema</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="open_time">Open time</string>
+    <string name="Store_OpeningHour">Mon-Fri: 05:30 pm - 09:00pm</string>
+    <string name="Store_OpeningHourHoliday">Sat - Sun: 10:00am - 12:00pm</string>
+    <string name="location">Location</string>
+    <string name="Store_Location" translatable="false">Event Cinema, Level 4</string>
+    <string name="terms_and_policy"><![CDATA[< Terms and Policy]]></string>
+    <string name="_2019_hungryrose" translatable="false">Ⓒ2019 HungryRose</string>
+    <string name="version">Version</string>
+    <string name="privacy_policy_we_built_the_virtual_browser_app_as_a_free_app_this_service_is_provided_by_at_no_cost_and_is_intended_for_use_as_is_this_page_is_used_to_inform_visitors_regarding_my_policies_with_the_collection_use_and_disclosure_of_personal_information_if_anyone_decided_to_use_my_service_if_you_choose_to_use_my_service_then_you_agree_to_the_collection_and_use_of_information_in_relation_to_this_policy_the_personal_information_that_i_collect_is_used_for_providing_and_improving_the_service_i_will_not_use_or_share_your_information_with_anyone_except_as_described_in_this_privacy_policy_the_terms_used_in_this_privacy_policy_have_the_same_meanings_as_in_our_terms_and_conditions_which_is_accessible_at_virtual_browser_unless_otherwise_defined_in_this_privacy_policy_information_collection_and_use_for_a_better_experience_while_using_our_service_i_may_require_you_to_provide_us_with_certain_personally_identifiable_information_the_information_that_i_request_will_be_retained_on_your_device_and_is_not_collected_by_me_in_any_way_the_app_does_use_third_party_services_that_may_collect_information_used_to_identify_you_link_to_privacy_policy_of_third_party_service_providers_used_by_the_app_google_play_services_log_data_i_want_to_inform_you_that_whenever_you_use_my_service_in_a_case_of_an_error_in_the_app_i_collect_data_and_information_through_third_party_products_on_your_phone_called_log_data_this_log_data_may_include_information_such_as_your_device_internet_protocol_ip_address_device_name_operating_system_version_the_configuration_of_the_app_when_utilizing_my_service_the_time_and_date_of_your_use_of_the_service_and_other_statistics_cookies_cookies_are_files_with_a_small_amount_of_data_that_are_commonly_used_as_anonymous_unique_identifiers_these_are_sent_to_your_browser_from_the_websites_that_you_visit_and_are_stored_on_your_device_s_internal_memory_this_service_does_not_use_these_cookies_explicitly_however_the_app_may_use_third_party_code_and_libraries_that_use_cookies_to_collect_information_and_improve_their_services_you_have_the_option_to_either_accept_or_refuse_these_cookies_and_know_when_a_cookie_is_being_sent_to_your_device_if_you_choose_to_refuse_our_cookies_you_may_not_be_able_to_use_some_portions_of_this_service_service_providers_i_may_employ_third_party_companies_and_individuals_due_to_the_following_reasons_to_facilitate_our_service_to_provide_the_service_on_our_behalf_to_perform_service_related_services_or_to_assist_us_in_analyzing_how_our_service_is_used_i_want_to_inform_users_of_this_service_that_these_third_parties_have_access_to_your_personal_information_the_reason_is_to_perform_the_tasks_assigned_to_them_on_our_behalf_however_they_are_obligated_not_to_disclose_or_use_the_information_for_any_other_purpose_security_i_value_your_trust_in_providing_us_your_personal_information_thus_we_are_striving_to_use_commercially_acceptable_means_of_protecting_it_but_remember_that_no_method_of_transmission_over_the_internet_or_method_of_electronic_storage_is_100_secure_and_reliable_and_i_cannot_guarantee_its_absolute_security_links_to_other_sites_this_service_may_contain_links_to_other_sites_if_you_click_on_a_third_party_link_you_will_be_directed_to_that_site_note_that_these_external_sites_are_not_operated_by_me_therefore_i_strongly_advise_you_to_review_the_privacy_policy_of_these_websites_i_have_no_control_over_and_assume_no_responsibility_for_the_content_privacy_policies_or_practices_of_any_third_party_sites_or_services_children_s_privacy_these_services_do_not_address_anyone_under_the_age_of_13_i_do_not_knowingly_collect_personally_identifiable_information_from_children_under_13_in_the_case_i_discover_that_a_child_under_13_has_provided_me_with_personal_information_i_immediately_delete_this_from_our_servers_if_you_are_a_parent_or_guardian_and_you_are_aware_that_your_child_has_provided_us_with_personal_information_please_contact_me_so_that_i_will_be_able_to_do_necessary_actions_changes_to_this_privacy_policy_i_may_update_our_privacy_policy_from_time_to_time_thus_you_are_advised_to_review_this_page_periodically_for_any_changes_i_will_notify_you_of_any_changes_by_posting_the_new_privacy_policy_on_this_page_these_changes_are_effective_immediately_after_they_are_posted_on_this_page_contact_us_if_you_have_any_questions_or_suggestions_about_my_privacy_policy_do_not_hesitate_to_contact_me_at_yibin_feng_uqconnect_edu_au_st_lucia_qld_4072_this_privacy_policy_page_was_created_at_privacypolicytemplate_net_and_modified_generated_by_app_privacy_policy_generator" translatable="false">Privacy Policy We built the Virtual Browser app as a Free app. This SERVICE is provided by at no cost and is intended for use as is. \nThis page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. \nIf you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. \nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Virtual Browser unless otherwise defined in this Privacy Policy. \n<b>Information Collection and Use</b> \nFor a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. \nThe app does use third party services that may collect information used to identify you. \nLink to privacy policy of third party service providers used by the app \nGoogle Play Services \n<b>Log Data</b> I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics. \n<b>Cookies</b>\n Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory. \nThis Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. \n<b>Service Providers</b>\n I may employ third-party companies and individuals due to the following reasons: \nTo facilitate our Service;\n To provide the Service on our behalf;\n To perform Service-related services;\n or To assist us in analyzing how our Service is used.\n I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.\n <b>Security</b>\n I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.\n <b>Links to Other Sites</b>\n This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n <b>Children’s Privacy</b>\n These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.\n <b>Changes to This Privacy Policy</b>\n I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page./n <b>Contact Us</b>\n If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at yibin.feng@uqconnect.edu.au, St Lucia QLD 4072.\n This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator\n</string>
+    <string name="promotions">Promotions</string>
+    <string name="southport_park_centre_n_south_port"><u>Southport Park Centre, South Port</u></string>
+    <string name="store_list_for_garden_city">Store list for Garden City</string>
+    <string name="store_description">Store Description</string>
+    <string name="Promotions"><![CDATA[<]]>Promotions</string>
+
+    <string-array name="states">
+        <item>New South Wales</item>
+        <item>Western Australia</item>
+        <item>Queensland</item>
+        <item>South Australia</item>
+        <item>Victoria</item>
+        <item>Tasmania</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="harbour_town_outlet_ngold_coast"><u>Harbour Town Outlet,\\nGold Coast</u></string>
+
+    <string name="choose_the_state">select state</string>
+    <string name="nsw">New South Wales</string>
+    <string name="queensland">Queensland</string>
+    <string name="southAU">South Australia</string>
+    <string name="victoria">Victoria</string>
+    <string name="tasmania">Tasmania</string>
+    <string name="westAU">Western Australia</string>
+
+    <string name="medium_lemons">Medium Lemons</string>
+    <string name="stock_0">Stock: 0</string>
+    <string name="management"><u>Management</u></string>
+    <string name="search_for_stock">Search for stock</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_product_descrption">Add Product Descrption</string>
+    <string name="name">Name</string>
+    <string name="number_of_stock">Number of Stock</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="add_image">Add Image</string>
+    <string name="stock">Stock</string>
+    <string name="today_special">Today Special</string>
+    <string name="new_price">new price</string>
+    <string name="change"><u>Change</u></string>
+    <string name="add_description_of_promotion">Add description of Promotion</string>
+    <string name="scan_by_barcode">Scan by Barcode</string>
+
+
+</resources>
+

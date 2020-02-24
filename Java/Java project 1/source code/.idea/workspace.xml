@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="882cb606-fdae-4315-b0e1-144f986ccab9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/pacman/display" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/test/pacman/display/BoardViewModelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pacman/display/ScoreViewModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pacman/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pacman/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pacman/display/BoardView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pacman/display/BoardView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pacman/display/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pacman/display/MainView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pacman/display/ScoreView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pacman/display/ScoreView.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1TvnjgksjyhlwOrPGyR7wc4mWoK" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pacman.Launcher" />
+      <module name="a3 diane" />
+      <option name="PROGRAM_PARAMETERS" value="runaway.map save.map" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pacman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="PROGRAM_PARAMETERS" value="runaway.map save.map" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="882cb606-fdae-4315-b0e1-144f986ccab9" name="Default Changelist" comment="" />
+      <created>1574349573031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574349573031</updated>
+    </task>
+    <servers />
+  </component>
+</project>

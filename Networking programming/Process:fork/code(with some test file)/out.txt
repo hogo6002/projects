@@ -1,0 +1,57 @@
+New card = Bonus B, worth 7, costs 15,16,1,19
+New card = Bonus R, worth 1, costs 5,4,16,9
+New card = Bonus B, worth 1, costs 3,11,18,7
+New card = Bonus B, worth 6, costs 8,9,16,13
+New card = Bonus R, worth 11, costs 5,5,11,11
+New card = Bonus P, worth 20, costs 17,13,15,10
+New card = Bonus R, worth 2, costs 9,2,13,4
+New card = Bonus Y, worth 12, costs 14,1,12,1
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B drew 1,1,1,0
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A took a wild
+Player B took a wild
+Player A purchased 6 using 5,2,5,0,16
+New card = Bonus B, worth 16, costs 1,18,10,0
+Player B drew 1,1,1,0
+Player A drew 1,1,1,0
+Player B purchased 7 using 1,6,6,0,16
+New card = Bonus R, worth 2, costs 0,9,20,11
+Winner(s) B

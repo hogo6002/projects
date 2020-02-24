@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginBottom="60dp"
+        android:text="@string/version_code"
+        android:textColor="#A09D9D"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="8dp"
+        android:clickable="true"
+        android:text="@string/terms_conditions"
+        android:textColor="#A09D9D"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="28dp"
+        android:text="@string/right"
+        android:textColor="#A09D9D"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView33"
+        app:layout_constraintTop_toBottomOf="@+id/editText"
+        app:layout_constraintVertical_bias="0.923" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="28dp"
+        android:clickable="true"
+        android:text="@string/privacy_policy"
+        android:textColor="#A09D9D"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView34" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+
+        app:fontFamily="@font/fangyuan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/backFromPolicy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="76dp"
+        android:text="@string/terms_and_policy"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="136dp"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="76dp"
+        android:text="@string/_2019_hungryrose"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView50"
+        app:layout_constraintTop_toBottomOf="@+id/textView36" />
+
+    <TextView
+        android:id="@+id/textView52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/version"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView50" />
+
+    <TextView
+        android:id="@+id/textView53"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="132dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/version_code"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.407"
+        app:layout_constraintStart_toEndOf="@+id/textView52"
+        app:layout_constraintTop_toBottomOf="@+id/textView51" />
+
+    <TextView
+        android:id="@+id/terms"
+        android:layout_width="325dp"
+        android:layout_height="399dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="12dp"
+        android:scrollbars="vertical"
+        android:text="@string/privacy_policy_we_built_the_virtual_browser_app_as_a_free_app_this_service_is_provided_by_at_no_cost_and_is_intended_for_use_as_is_this_page_is_used_to_inform_visitors_regarding_my_policies_with_the_collection_use_and_disclosure_of_personal_information_if_anyone_decided_to_use_my_service_if_you_choose_to_use_my_service_then_you_agree_to_the_collection_and_use_of_information_in_relation_to_this_policy_the_personal_information_that_i_collect_is_used_for_providing_and_improving_the_service_i_will_not_use_or_share_your_information_with_anyone_except_as_described_in_this_privacy_policy_the_terms_used_in_this_privacy_policy_have_the_same_meanings_as_in_our_terms_and_conditions_which_is_accessible_at_virtual_browser_unless_otherwise_defined_in_this_privacy_policy_information_collection_and_use_for_a_better_experience_while_using_our_service_i_may_require_you_to_provide_us_with_certain_personally_identifiable_information_the_information_that_i_request_will_be_retained_on_your_device_and_is_not_collected_by_me_in_any_way_the_app_does_use_third_party_services_that_may_collect_information_used_to_identify_you_link_to_privacy_policy_of_third_party_service_providers_used_by_the_app_google_play_services_log_data_i_want_to_inform_you_that_whenever_you_use_my_service_in_a_case_of_an_error_in_the_app_i_collect_data_and_information_through_third_party_products_on_your_phone_called_log_data_this_log_data_may_include_information_such_as_your_device_internet_protocol_ip_address_device_name_operating_system_version_the_configuration_of_the_app_when_utilizing_my_service_the_time_and_date_of_your_use_of_the_service_and_other_statistics_cookies_cookies_are_files_with_a_small_amount_of_data_that_are_commonly_used_as_anonymous_unique_identifiers_these_are_sent_to_your_browser_from_the_websites_that_you_visit_and_are_stored_on_your_device_s_internal_memory_this_service_does_not_use_these_cookies_explicitly_however_the_app_may_use_third_party_code_and_libraries_that_use_cookies_to_collect_information_and_improve_their_services_you_have_the_option_to_either_accept_or_refuse_these_cookies_and_know_when_a_cookie_is_being_sent_to_your_device_if_you_choose_to_refuse_our_cookies_you_may_not_be_able_to_use_some_portions_of_this_service_service_providers_i_may_employ_third_party_companies_and_individuals_due_to_the_following_reasons_to_facilitate_our_service_to_provide_the_service_on_our_behalf_to_perform_service_related_services_or_to_assist_us_in_analyzing_how_our_service_is_used_i_want_to_inform_users_of_this_service_that_these_third_parties_have_access_to_your_personal_information_the_reason_is_to_perform_the_tasks_assigned_to_them_on_our_behalf_however_they_are_obligated_not_to_disclose_or_use_the_information_for_any_other_purpose_security_i_value_your_trust_in_providing_us_your_personal_information_thus_we_are_striving_to_use_commercially_acceptable_means_of_protecting_it_but_remember_that_no_method_of_transmission_over_the_internet_or_method_of_electronic_storage_is_100_secure_and_reliable_and_i_cannot_guarantee_its_absolute_security_links_to_other_sites_this_service_may_contain_links_to_other_sites_if_you_click_on_a_third_party_link_you_will_be_directed_to_that_site_note_that_these_external_sites_are_not_operated_by_me_therefore_i_strongly_advise_you_to_review_the_privacy_policy_of_these_websites_i_have_no_control_over_and_assume_no_responsibility_for_the_content_privacy_policies_or_practices_of_any_third_party_sites_or_services_children_s_privacy_these_services_do_not_address_anyone_under_the_age_of_13_i_do_not_knowingly_collect_personally_identifiable_information_from_children_under_13_in_the_case_i_discover_that_a_child_under_13_has_provided_me_with_personal_information_i_immediately_delete_this_from_our_servers_if_you_are_a_parent_or_guardian_and_you_are_aware_that_your_child_has_provided_us_with_personal_information_please_contact_me_so_that_i_will_be_able_to_do_necessary_actions_changes_to_this_privacy_policy_i_may_update_our_privacy_policy_from_time_to_time_thus_you_are_advised_to_review_this_page_periodically_for_any_changes_i_will_notify_you_of_any_changes_by_posting_the_new_privacy_policy_on_this_page_these_changes_are_effective_immediately_after_they_are_posted_on_this_page_contact_us_if_you_have_any_questions_or_suggestions_about_my_privacy_policy_do_not_hesitate_to_contact_me_at_yibin_feng_uqconnect_edu_au_st_lucia_qld_4072_this_privacy_policy_page_was_created_at_privacypolicytemplate_net_and_modified_generated_by_app_privacy_policy_generator"
+        app:layout_constraintBottom_toTopOf="@+id/textView35"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.088"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView52"
+        app:layout_constraintVertical_bias="0.045" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
