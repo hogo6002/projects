@@ -1,0 +1,836 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-size: 1.2vw;
+    font-family:"STSong", Serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.car-detail {
+    display: flex;
+    margin: auto;
+}
+
+.car-detail form {
+    margin: auto;
+}
+
+.car-detail form input{
+    border: none;
+    cursor: pointer;
+    width: 10vw;
+    height: 5vw;
+    font-size: 1.5vw;
+}
+
+h2 {
+    font-size: 2.0vw;
+    margin-bottom: 3vw;
+}
+
+.order-btn {
+    width: 8vw;
+    border-radius: 5px;
+    font-size: 1.4vw;
+    text-align: center;
+    padding: 0.2vw;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+
+.car-detail-p {
+    font-size: 1.7vw;
+    margin: auto;
+
+}
+
+.container {
+    width: 80%;
+}
+
+.show-phone {
+    display: none;
+}
+
+.not-show{
+    display: none;
+}
+
+/**************************************header********************************/
+header {
+	width: 80%;
+	display: flex;
+	padding-top: 1.5vw;
+	margin-bottom: 2.5vw;
+	justify-content: space-between;
+}
+
+#logo-figure {
+	width: 15%;
+	display: flex;
+}
+
+#logo-figure img {
+	width: 15%;
+}
+
+h1 {
+	margin: auto;
+	font-size: 2.5vw;
+}
+
+#nav-pc {
+	width: 80%;
+	display: flex;
+	margin: auto;
+}
+
+#nav-pc ul {
+	display: flex;
+	width: 50%;
+}
+
+#nav-pc ul li{
+	list-style: none;
+	margin: auto;
+}
+
+#nav-pc ul li a {
+	text-decoration: none;
+	color: black;
+	margin: auto;
+}
+
+#nav-pc p {
+	text-align: right;
+	width: 50%;
+}
+
+/*#nav-phone {
+    display: none;
+}*/
+
+/*************************************main-content****************************/
+#main-content {
+	background-image: url("../images/background.png");
+	width: 100%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding-top: 8vw;
+	padding-bottom: 8vw;
+}
+
+#book-form {
+	background-color: white;
+	margin: auto;
+	position: relative;
+	top: 100%;
+	/*transform: translateY(-50%);*/
+	left: 0%;
+	width: 30%;
+	padding: 2vw;
+	border-radius: 10px;
+}
+
+#book-form h2 {
+	margin-bottom: 1.5vw;
+	text-align: center;
+	font-size: 2vw;
+}
+
+#book-form label {
+	font-size: 1.3vw;
+	color: grey;
+}
+
+#book-form input {
+	margin-bottom: 1.5vw;
+	margin-top: 0.5vw;
+	height: 3vw;
+	font-size: 1.2vw;
+}
+
+.date-input {
+	width: 17vw;
+}
+
+.time-input {
+	width: 9vw;
+}
+
+#submit {
+	width: 100%;
+	border-radius: 5px;
+	font-size: 2vw;
+	padding: 0.5vw;
+	background-color: orange;
+	color: white;
+	cursor: pointer;
+}
+
+/************************login form**********************/
+#login-form {
+    border: 1px solid #EEEEEE;
+    padding: 1.5em 2.5em;
+    background-color: #EEEEEE;
+    text-align: center;
+    width: 18em;
+    font-size: 12pt;
+    left: 50%;
+    top: 50%;
+    position: fixed;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    -moz-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+    border-radius: 5px;
+    color: rgb(59, 58, 58);
+    z-index: 9999;
+}
+
+.close {
+    position: absolute;
+    top: 0em;
+    right: 0.5em;
+    transition: all 200ms;
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(102, 101, 101);
+}
+
+.close:hover{
+    color: rgb(30, 30, 31);
+}
+
+#login-form h2 {
+    margin: 0 0 1em 0;
+}
+
+.ask a {
+    text-decoration: underline;
+    color: rgb(5, 5, 85);
+}
+
+.ask a hover{
+    color: rgb(18, 18, 29);
+}
+
+.ask {
+    margin-bottom: 1em;
+}
+
+.horizontal-line {
+    text-align: center;
+    position: relative;
+}
+
+span {
+    display: inline-block;
+    color: #a19f9f; 
+    margin-bottom: 1em; 
+}
+
+span:before,
+span:after {
+    border-top: 1px solid #a19f9f;
+    display: block;
+    height: 1px;
+    content: " ";
+    width: 40%;
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+}
+span:after {
+   right: 0;  
+   left: auto; 
+}
+
+.form-value {
+    width: 100%;
+    text-align: left;
+}
+
+.form-value p {
+    font-size: 12pt;
+    margin-top: 1em;
+}
+
+.form-value input {
+    width: 100%;
+    height: 2.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.form-value a{
+    color: rgb(105, 103, 103);
+   font-size: 10pt;
+}
+
+.form-value a:hover{
+    color: rgb(48, 48, 48);
+}
+
+.google-login {
+    width: 100%;
+    height: 2.5em;
+    border: 1px solid #a8a5a5;
+    font-size: 13pt;
+    text-align: left;
+    cursor: pointer;
+    margin-bottom: 2em;
+    border-radius: 5px;
+}
+
+.google-login:hover {
+    background-color: #1d2649da;
+    color: white;
+}
+
+.google-login img {
+    margin-right: 3em;
+    margin-left: 0.5em;
+}
+
+.submit {
+    margin-top: 1.5em;
+    width: 100%;
+    height: 2.5em;
+    background-color: rgba(175, 9, 9, 0.8);
+    color: #EEEEEE;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.submit:hover {
+    background-color: rgba(133, 45, 45, 0.7);
+}
+
+.form-law {
+    font-size: 10pt;
+    margin-top: 1em;
+}
+
+.form-law a{
+    font-size: 10pt;
+    font-weight: bold;
+    color: rgb(5, 5, 85);
+}
+
+
+/**********************register*****************/
+#register-form {
+    border: 1px solid #EEEEEE;
+    padding: 1.5em 2.5em;
+    background-color: #EEEEEE;
+    text-align: center;
+    width: 18em;
+    font-size: 12pt;
+    left: 50%;
+    top: 50%;
+    position: fixed;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    -moz-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+    border-radius: 5px;
+    color: rgb(59, 58, 58);
+    /*display: none;*/
+    z-index: 9999;
+}
+
+#register-form h2 {
+    margin: 0 0 1em 0;
+}
+
+#email-reminder {
+    color: red;
+    font-size: 10pt;
+    display: none;
+    margin-top: -0.6em;
+}
+
+#pass-reminder {
+    color: red;
+    font-size: 10pt;
+    display: none;
+    margin-top: -0.6em;
+}
+
+
+/***********Support*************/
+#cover {
+        background-color:rgba(0, 0, 0, 0.151);
+        width:100%;
+        height:100%;
+      	display:none;
+        position:fixed;
+    	z-index:5000;
+}
+
+.stop-scrolling {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  #firstname {
+      
+  }
+
+
+/************profile******************/
+#profile {
+        width: 60%;
+        margin-top: 20px;
+        margin-bottom: 150px;
+    }
+
+    #profile ul {
+        list-style: none;
+        margin-top: 10px;
+    }
+
+    #profile ul li{
+        border-top: 1px solid grey;
+        border-bottom: 1px solid grey;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+
+    #profile ul li h3 {
+        margin-bottom: 3px;
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+
+
+/************************************cars.html***************************/
+#cars-container {
+	width: 60%;
+	margin-top: 7vw;
+}
+
+#cars-container h2{
+	text-align: center;
+	padding-bottom: 2vw;
+	margin-bottom: 1vw;
+	border-bottom: 1px solid black;
+}
+
+
+#cars-container ul{
+	width: 100%;
+}
+
+#cars-container ul li{
+	width: 90%;
+	display: flex;
+	border-bottom: 1px solid grey;
+	padding: 2vw 0;
+}
+
+#cars-container ul li h3{
+	margin: auto;
+}
+
+
+.car-img {
+	width: 20%;
+}
+
+.car-img-detial {
+    margin-top: 3vw;
+    width: 80%;
+}
+
+.car-img-detial img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.car-img img {
+	width: 100%;
+}
+
+.not-show{
+	display: none;
+}
+
+
+/************************Contact********************/
+#container {
+    width: 40%;
+    height: 30vw;
+    border-radius: 20px;
+    border: 1px solid grey;
+}
+
+
+/*************************footer*************************/
+footer {
+    margin-top: 5vw;
+    margin-bottom: 3vw;
+}
+
+@media (min-width:200px) and (max-width:750px) {
+    * {
+        font-size: 16px;
+    }
+
+    .show-phone {
+        display: block;
+        color: black;
+    }
+
+    h1 {
+        font-size: 22px;
+        width: 100%;
+        margin-left: 30px;
+    }
+
+    header {
+        display: block;
+        width: 100%;
+        padding-top: 0;
+    }
+
+    #logo-figure {
+        width: 100%;
+        display: flex;
+        text-align: center;
+        background-color: #EEEEEE;
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+
+    #logo-figure p{
+        margin-right: 20px;
+        font-size: 20px;
+    }
+
+    #logo-figure img {
+        width: 15%;
+    }
+
+    #nav-btn {
+        cursor: pointer;
+    }
+
+    #nav-pc {
+        display: none;
+    }
+
+    nav {
+        display: block;
+        width: 40%;
+        margin: 0 60%;
+        background-color: #eeeeee;
+        padding: 20px 0;
+        border-radius: 10px;
+        margin-top: -5px;
+        left: 0%;
+        top: 7%;
+        position: absolute;
+        z-index: 999;
+        /*display: none;*/
+    }
+
+    nav ul {
+        display: block;
+        width: 80%;
+        list-style-type: none;
+    }
+
+    nav ul li{
+        margin-bottom: 20px;
+        width: 100%
+    }
+
+    nav a {
+        font-size: 18px;
+        width: 100%;
+        color: grey;
+    }
+
+    nav ul li a {
+        font-size: 18px;
+        color: grey;
+    }
+
+    nav p {
+        width: 80%;
+        text-align: left;
+        font-size: 18px;
+        color: grey;
+    }
+
+    /*******************************booking form************************/
+    #main-content {
+        background-image: none;
+        margin-top: -10px;
+        /*background-color: #CCCC99;*/
+        width: 100%;
+        padding-top: 0;
+        padding-bottom: 8vw;
+    }
+
+    #book-form {
+        /*background-color: #CCCC99;*/
+        margin: auto;
+        position: relative;
+        width: 90%;
+        font-size: 15px;
+        padding: 0;
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    #book-form h2 {
+        margin-bottom: 1.5vw;
+        text-align: center;
+        font-size: 18px;
+        color: #333300;
+        display: none;
+    }
+
+    #book-form label {
+        font-size: 1.3vw;
+        color: grey;
+        font-size: 19px;
+        width: 80%;
+    }
+
+    #book-form input {
+        height: 40px;
+        border-radius: 5px;
+        font-size: 17px;
+        color: #333300;
+        margin-bottom: 30px;
+    }
+
+    .date-input {
+        width: 170px;
+        text-align: center;
+
+    }
+
+    .time-input {
+        width: 120px;
+    }
+
+    #submit {
+        width: 100%;
+        border-radius: 5px;
+        padding: 0.5vw;
+        background-color: #ff8c00;
+        color: white;
+        cursor: pointer;
+    }
+
+    .submit-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .label-container {
+        width: 90%;
+        text-align: left;
+    }
+
+
+    /***********************slide show********************/
+    #home-header figure {
+        width: 100%;
+        display: block;
+        height: 230px;
+    }
+
+    .home-slides {
+        display:none;
+
+    }
+
+
+    #home-header figure img {
+        opacity: 1;
+        display: block;
+        backface-visibility: hidden;
+        text-align: center;
+        max-width: 100%;
+        max-height: auto;
+    }
+
+    /***********************Footer****************************/
+    footer {
+        margin-top: 50px;
+        margin-bottom: 20px;
+        color: grey;
+    }
+
+    /************************************all cars***************************/
+    #cars-container {
+        width: 90%;
+        margin-top: 7vw;
+    }
+
+    #cars-container h2{
+        text-align: center;
+        padding-bottom: 2vw;
+        font-size: 18px;
+        display: none;
+        margin-bottom: 1vw;
+        border-bottom: 1px solid black;
+    }
+
+
+    #cars-container ul{
+        width: 100%;
+    }
+
+    #cars-container ul li{
+        width: 100%;
+        display: flex;
+        border-bottom: 1px solid grey;
+        padding: 2vw 0;
+        background-color: #eeeeee;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    #cars-container form input{
+        font-size: 14px;
+        width: 100px;
+        height: 30px;
+        padding: 5px;
+        border-radius: 5px;
+    }
+
+    .car-img img {
+        width: 100%;
+        border-radius: 2px;
+    }
+
+    .submit-btn {
+        background-color: orange;
+        color: #424242;
+        
+    }
+
+    /***************************car detail*********************/
+    .car-detail {
+        width: 100%;
+    }
+
+    .car-detail h3 {
+        font-size: 20px;
+        color: black;
+    }
+
+    .car-detail-p {
+        font-size: 18px;
+        display: block;
+        margin-bottom: 10px;
+        color: red;
+    }
+
+    .car-img-detial {
+        margin-bottom: 50px;
+        margin-top: 20px;
+    }
+
+    /***********************contact**********************/
+
+    #contact h2{
+        display: none;
+    }
+
+    #contact {
+        text-align: center;
+    }
+
+    #contact-p {
+        text-align: left;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+
+    #container {
+        width: 80%;
+        height: 200px;
+        border-radius: 20px;
+        border: none;
+        margin-bottom: 100px;
+        margin-top: 10px;
+    }
+
+    /********************login*********************/
+    #login-form h2 {
+        font-size: 20px;
+    }
+
+    #register-form h2 {
+        font-size: 20px;
+    }
+
+    #remember {
+        width: 20px;
+        height: 18px;
+    }
+
+    #profile h2 {
+        display: none;
+    }
+
+    #profile {
+        width: 80%;
+        margin-top: 20px;
+        margin-bottom: 150px;
+    }
+
+    #profile ul {
+        list-style: none;
+        margin-top: 10px;
+    }
+
+    #profile ul li{
+        border-top: 1px solid grey;
+        border-bottom: 1px solid grey;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+
+    #profile ul li h3 {
+        margin-bottom: 3px;
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
